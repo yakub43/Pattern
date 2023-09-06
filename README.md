@@ -8,3 +8,4 @@ how many columns are there <br>
 types of elements in column</li>
 <li>What do you need to print</li>
 </ol>
+<emp>NOTE: Try to find out formula related to rows and columns</emp>
